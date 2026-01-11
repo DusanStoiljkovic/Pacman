@@ -13,8 +13,6 @@ The game is fully playable and suitable as a student project, exam assignment, o
 
 ✅ Smooth turning (classic Pacman-style movement)
 
-✅ Buffered input (direction is remembered until it becomes valid)
-
 ✅ Accurate wall collision detection
 
 ✅ Food collection system
@@ -23,7 +21,7 @@ The game is fully playable and suitable as a student project, exam assignment, o
 
 ✅ Lives system
 
-✅ Ghost movement with random AI
+✅ Ghost movement with random
 
 ✅ Background music with autoplay handling
 
